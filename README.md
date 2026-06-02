@@ -5,12 +5,12 @@ Passionate about building scalable web applications, cross-platform mobile apps,
 I enjoy turning ideas into efficient, clean, and user-friendly products.
 
 ## 💡 About Me
-💻 Full-Stack Web Developer
-📱 Flutter App Developer
-🎨 UI/UX Designer
-⚙️ Backend Systems Developer
-🌱 Always learning new technologies and improving workflows
-🚀 Interested in software engineering, system design, and cybersecurity
+💻 Full-Stack Web Developer    
+📱 Flutter App Developer    
+🎨 UI/UX Designer     
+⚙️ Backend Systems Developer     
+🌱 Always learning new technologies and improving workflows     
+🚀 Interested in software engineering, system design, and cybersecurity      
 
 
 ## 🌐 Socials:
