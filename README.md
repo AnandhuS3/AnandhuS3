@@ -1,5 +1,16 @@
-# 💫 About Me:
-i'm Anandhu S , Software engineer skilled in full-stack web development,<br> Flutter app development, UI/UX design, and backend systems, <br>working with JavaScript, TypeScript, React, Node.js, Express, MongoDB, <br>Firebase, Flutter, Dart, Python, HTML, CSS, and Git.
+#Hi there, I'm Anandhu S 👋
+🚀 Software Engineer | Full-Stack Developer | Flutter Developer | UI/UX Enthusiast
+
+Passionate about building scalable web applications, cross-platform mobile apps, and modern digital experiences.
+I enjoy turning ideas into efficient, clean, and user-friendly products.
+
+##💡 About Me
+💻 Full-Stack Web Developer
+📱 Flutter App Developer
+🎨 UI/UX Designer
+⚙️ Backend Systems Developer
+🌱 Always learning new technologies and improving workflows
+🚀 Interested in software engineering, system design, and cybersecurity
 
 
 ## 🌐 Socials:
