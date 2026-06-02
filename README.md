@@ -1,10 +1,10 @@
-#Hi there, I'm Anandhu S 👋
+# Hi there, I'm Anandhu S 👋
 🚀 Software Engineer | Full-Stack Developer | Flutter Developer | UI/UX Enthusiast
 
 Passionate about building scalable web applications, cross-platform mobile apps, and modern digital experiences.
 I enjoy turning ideas into efficient, clean, and user-friendly products.
 
-##💡 About Me
+## 💡 About Me
 💻 Full-Stack Web Developer
 📱 Flutter App Developer
 🎨 UI/UX Designer
